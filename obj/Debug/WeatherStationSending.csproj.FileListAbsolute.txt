@@ -1,0 +1,11 @@
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\bin\Debug\WeatherStationSending.exe.config
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\bin\Debug\WeatherStationSending.xml
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\bin\Debug\WeatherStationSending.exe
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\bin\Debug\WeatherStationSending.pdb
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.csproj.AssemblyReference.cache
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.Resources.resources
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.frmOptions.resources
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.csproj.GenerateResource.cache
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.csproj.CoreCompileInputs.cache
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.exe
+C:\projects\Dotnet C# Projects\WeatherStationSending\WeatherStationSending\obj\Debug\WeatherStationSending.pdb
