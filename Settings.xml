@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<SettingsXML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <WeatherUndergroundStationID>YOUR STATION ID</WeatherUndergroundStationID>
-  <WeatherUndergroundAPI>YOUR API NUMBER</WeatherUndergroundAPI>
-  <OverdueTimeInMinutes>10</OverdueTimeInMinutes>
-  <ResultLog>False</ResultLog>
-  <DisplayResult>False</DisplayResult>
-  <HowOftenToCheckInMinutes>10</HowOftenToCheckInMinutes>
-</SettingsXML>
